@@ -1,8 +1,8 @@
 Login Form:
 
-Username:moonstar
+Username: moonstar
 
-Password:123
+Password: 123
 
 ![image](https://user-images.githubusercontent.com/102042650/170154596-187f0e06-3578-4e29-ab1f-381e99a08094.png)
 
